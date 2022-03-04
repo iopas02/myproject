@@ -1,5 +1,5 @@
 <?php
-$localh= "localhost";
+$localh= "127.0.0.1";
 $username = "root";
 $password = "";
 $dbName= "reserv-eat";
